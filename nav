@@ -1,0 +1,11 @@
+import React from 'react'
+
+const Nav = () => {
+  return (
+    <div className='py-8 '>
+<h1 className='justify-center flex text-4xl font-braven font-light'>TO DO LIST.</h1>
+    </div>
+  )
+}
+
+export default Nav
